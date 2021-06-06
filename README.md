@@ -1,5 +1,5 @@
 
-![Alt Drumkit Project using](https://drive.google.com/file/d/1e6AAJTzi6VIDWySCvCFO4O3ZaetChoxM/view?usp=sharing)
+![Alt Drumkit Project using](https://github.com/sonu28sharma99/DrumKit-project/blob/main/images/hosted%20project%20image.png)
 # Hosted Project
 __https://drumkit-javascript.netlify.app/__
 
