@@ -1,7 +1,7 @@
 
 
 # Hosted Project
-__https://js-beginners.github.io/javascript30-drumkit__
+__https://drumkit-javascript.netlify.app/__
 
 ## Things I learned:
 1. JavaScript Used
