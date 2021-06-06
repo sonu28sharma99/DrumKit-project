@@ -1,15 +1,15 @@
 
-
+![Alt Drumkit Project using](https://drive.google.com/file/d/1e6AAJTzi6VIDWySCvCFO4O3ZaetChoxM/view?usp=sharing)
 # Hosted Project
 __https://drumkit-javascript.netlify.app/__
 
 ## Things I learned:
-1. JavaScript Used
-2. DOM Manipulation
-3. Control Structures
-4. HTML Audio API
-5. JavaScript CSS Manipulation
-5. addEventListener
+1. JavaScript
+3. DOM Manipulation
+4. Control Structures
+5. HTML Audio API
+6. JavaScript CSS Manipulation
+7. addEventListener
 
 ## Project Description/Summary:
 The point of this project is to have each key, when pressed, make a corresponding drum noise. It also uses CSS transitions and animations to make the project more interactive to the user. I completed this project earlier in my JavaScript learning phase. I found it quite confusing because I had never used the HTML audio API or the selection of DOM elements using the date-key attribute.
